@@ -1,0 +1,15 @@
+E:\Problem6\bin\Debug\net6.0\Problem6.exe
+E:\Problem6\bin\Debug\net6.0\Problem6.deps.json
+E:\Problem6\bin\Debug\net6.0\Problem6.runtimeconfig.json
+E:\Problem6\bin\Debug\net6.0\Problem6.dll
+E:\Problem6\bin\Debug\net6.0\Problem6.pdb
+E:\Problem6\obj\Debug\net6.0\Problem6.csproj.AssemblyReference.cache
+E:\Problem6\obj\Debug\net6.0\Problem6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem6\obj\Debug\net6.0\Problem6.AssemblyInfoInputs.cache
+E:\Problem6\obj\Debug\net6.0\Problem6.AssemblyInfo.cs
+E:\Problem6\obj\Debug\net6.0\Problem6.csproj.CoreCompileInputs.cache
+E:\Problem6\obj\Debug\net6.0\Problem6.dll
+E:\Problem6\obj\Debug\net6.0\refint\Problem6.dll
+E:\Problem6\obj\Debug\net6.0\Problem6.pdb
+E:\Problem6\obj\Debug\net6.0\Problem6.genruntimeconfig.cache
+E:\Problem6\obj\Debug\net6.0\ref\Problem6.dll
